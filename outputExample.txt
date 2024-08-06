@@ -1,0 +1,42 @@
+Output for option 1:
+1 1 2 3 5 
+
+
+
+Output for option 2:
+Right triangle star pattern for n = 3
+* 
+* * 
+* * * 
+
+Output for option 3:
+*****
+****
+***
+**
+*
+
+
+Output for option 4:
+0 
+0 1 
+0 1 1 
+0 1 1 2 
+0 1 1 2 3 
+
+
+Output for option 5:
+******
+*    *
+*    *
+*    *
+*    *
+******
+
+
+Output for option 6:
+3+6=9
+2 x 3 x 4 x 5 = 30
+5+10+30=45
+
+
